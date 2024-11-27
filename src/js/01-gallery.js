@@ -4,4 +4,5 @@ import { galleryItems } from './gallery-items';
 
 console.log(galleryItems);
 const value = 10;
+const item = 1;
 
